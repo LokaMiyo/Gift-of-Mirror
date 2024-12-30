@@ -1,0 +1,57 @@
+<!--DOCTYPE:注视-->
+<!DOCTYPE html>
+
+<html lang="en">
+<!--head标签代表网页头部-->
+<head>
+
+<!--meta描述性标签，描述网站信息-->
+<meta charset="UTF-8">
+<title>My Lover</title>
+<style>
+h1 {
+color:#B80000;
+height:35px;
+}
+h2{
+color:#A8A8A8;
+}
+p{
+color:Pink;
+font:italic bold 20px/30px Georgia, serif;
+}
+
+body
+{
+    background-color:pink;
+}
+h1
+{
+    background-color:#F8F8F8;
+}
+p
+{
+    background-color:FFFFCC;
+}
+
+
+</style>
+</head>
+
+<!--body展示信息-->
+<body>
+<h1>献给自己</h1>
+<h2>如果爱忘了</h2>
+<hr/>
+
+<ul>
+<li>
+<p><i>I only say the things I say, so you will listen.</i></p>
+<p><b>我之所以会开口诉说，是因你会倾听。</b></p>
+<p></p>
+<p></p>
+<img src="" alt="插图" title="诉说与静默">
+</ul>
+</body>
+
+</html>
